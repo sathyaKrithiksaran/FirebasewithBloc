@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "986764995889",
+    "project_id": "fir-login-cdef4",
+    "storage_bucket": "fir-login-cdef4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986764995889:android:a9810362751d59c4755410",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebasewithbloc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986764995889-7ealrn27fp8ha1dr3hj1u0p217c4o258.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbtko-kWxFgBJv3IabSGTiWKtXGE4anp0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986764995889-7ealrn27fp8ha1dr3hj1u0p217c4o258.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
